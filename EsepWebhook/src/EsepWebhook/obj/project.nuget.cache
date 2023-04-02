@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YBiFm5tMVpPi2O8Kn+vsXTXswyn1J2HTJVgL4AOmBhaaf5o7KYBw1OOPHr2eFSBq9P4rPm8JCVxMLt4L1zgyFA==",
+  "dgSpecHash": "kVOQTcKpB4m09K8CcEjKWlevk4KdxNVKVpwp88mG1vBKvaWzyPni4MutMzMbib6xvKIYitEKqdmKfNxHTBwiOQ==",
   "success": true,
   "projectFilePath": "/Users/estebanmedero/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
   "expectedPackageFiles": [
     "/Users/estebanmedero/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
     "/Users/estebanmedero/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/Users/estebanmedero/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/estebanmedero/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
     "/Users/estebanmedero/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.15/microsoft.netcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
     "/Users/estebanmedero/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
